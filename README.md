@@ -5,7 +5,7 @@ Link to Hackathon: https://datahack.analyticsvidhya.com/contest/job-a-thon/#Lead
 
 #### The aim of this notebook was just to extract maximum features from the data.
 
-#### If it would be to get a higher rank / productionalizing the model, then the following things would be added to the notebook:
+#### To get a higher score / productionalizing the model, following things would be added to the notebook:
 
 #### 1) All the imputation and interaction features would be made twice for the train set and test set. Just repeating the codes twice.
 #### 2) All the aggregated features were made on combined data, they should be made separately on the train and test set, in this case, you just need to repeat the cell which has the code for aggregated features twice with df_train and df_test instead of df_total.
